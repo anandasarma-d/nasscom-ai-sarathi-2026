@@ -1,2 +1,2 @@
-# nasscom-2026-hackathon
+# nasscom-ai-sarathi-2026
 Project for NAASCOM's Hackathon 
